@@ -1,0 +1,23 @@
+.parrafoUno {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: italic;
+  font-weight: 100;
+}
+
+.parrafoNos {
+  text-align: center;
+  background-color: brown;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+.parrafoUno {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-size: xx-large;
+  color: bisque;
+  background-color: black;
+}
+
+/*# sourceMappingURL=estilo.css.map */
