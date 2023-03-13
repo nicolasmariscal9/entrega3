@@ -21,3 +21,8 @@ body {
 }
 
 /*# sourceMappingURL=estilo.css.map */
+header{
+  width: 320px;
+border: 15px solid #4f4f9659;
+padding: 45px;
+margin: 30px;
