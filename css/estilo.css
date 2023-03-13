@@ -20,4 +20,29 @@ body {
   background-color: black;
 }
 
+h1{
+  color: aliceblue;
+  background-color: rgb(7, 7, 43);
+  border: 15px solid blue;
+  padding: 20px;
+  margin: 50px;
+}
+.hola:hover {
+  width: 320px;
+  height: 60px;
+  color: red;
+  background-color: black;
+
+}
+#footerindex {
+  background-image: linear-gradient(to left, rgb(90, 37, 214) , rgb(24, 120, 150))
+}
+.grid{
+  background-image: linear-gradient(to top, rgb(32, 231, 215),rgb(76, 76, 199));
+  display: grid;  
+			
+   grid-template-columns: 180px 190px; 
+   			
+   
+}
 /*# sourceMappingURL=estilo.css.map */
